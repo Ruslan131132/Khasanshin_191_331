@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page3Form.qml</file>
+        <file>authPage.qml</file>
+        <file>Page2Form.qml</file>
+        <file>video.avi</file>
+        <file>img/icon.png</file>
+        <file>img/Pause.png</file>
+        <file>img/Play.png</file>
+        <file>img/vk.png</file>
+        <file>img/vkontakte.png</file>
+        <file>img/weather_bg.jpg</file>
+        <file>Page4Form.qml</file>
+        <file>Page5Form.qml</file>
+        <file>Page6Form.qml</file>
+    </qresource>
+</RCC>

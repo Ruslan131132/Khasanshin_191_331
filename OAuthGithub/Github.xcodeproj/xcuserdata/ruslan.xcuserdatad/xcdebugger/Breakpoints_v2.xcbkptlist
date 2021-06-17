@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF48EA9C-D288-483E-8875-579DF0AC5F12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "579CA63E-3DC8-4602-A646-B4BA07404D0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Github/Domain/OAuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getCodeFromUrl(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "579CA63E-3DC8-4602-A646-B4BA07404D0A - 6160a0f67c038856"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github.OAuthService.(getCodeFromUrl in _0062B4167EA5619F66C11B3ABADC7675)(url: Foundation.URL) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/OAUth/OAuthGithub/Github/Domain/OAuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "579CA63E-3DC8-4602-A646-B4BA07404D0A - 2479fd508ec60936"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Foundation.URLQueryItem) -&gt; Swift.Bool in Github.OAuthService.(getCodeFromUrl in _0062B4167EA5619F66C11B3ABADC7675)(url: Foundation.URL) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/OAUth/OAuthGithub/Github/Domain/OAuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
